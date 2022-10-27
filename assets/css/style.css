@@ -217,7 +217,7 @@ section {
   color: #4154f1;
 }
 .navbar .getstarted, .navbar .getstarted:focus {
-  background: #207178;
+  background: #1D49A7;
   box-shadow: 0px 5px 30px #728600;
   padding: 8px 20px;
   margin-left: 30px;
@@ -226,7 +226,7 @@ section {
 }
 .navbar .getstarted:hover, .navbar .getstarted:focus:hover {
   color: #fff;
-  background: #ffbb00;
+  background: #012d8b;
 }
 .navbar .dropdown ul {
   display: block;
@@ -400,7 +400,7 @@ section {
   border-radius: 4px;
   transition: 0.5s;
   color: #fff;
-  background: #207178;
+  background: #1D49A7;
   box-shadow: 0px 5px 30px #728600;
 }
 .hero .btn-get-started span {
